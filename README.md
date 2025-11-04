@@ -7,7 +7,7 @@
 ## ❤ Donation
 
 <div style="display:inline-block;">
-<img src="/Users/kotori/Viendeptrai1/images/exim.jpeg" style="height:160px">
+<img src="images/exim.jpeg" style="height:160px">
 </div>
 
 ### 📞 Contact:
