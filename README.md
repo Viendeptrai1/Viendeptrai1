@@ -12,7 +12,7 @@
 
 ### 📞 Contact:
 
-<a href="www.linkedin.com/in/imkotori">
+<a href="https://www.linkedin.com/in/phan-qu%E1%BB%91c-vi%E1%BB%85n-906083348/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:phanquocvien.123@gmail.com">
