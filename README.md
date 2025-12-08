@@ -1,8 +1,5 @@
 # Vien Phan
 
-<div style="display:inline-block;">
-<img src="https://github-readme-stats.vercel.app/api?username=viendeptrai1" style="height:160px">
-</div>
 
 ## ❤ Donation
 
