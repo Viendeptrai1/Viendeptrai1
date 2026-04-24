@@ -1,11 +1,6 @@
 # Vien Phan
 
-
-## ❤ Donation
-
-<div style="display:inline-block;">
-<img src="images/exim.jpeg" style="height:160px">
-</div>
+Hello sir
 
 ### 📞 Contact:
 
