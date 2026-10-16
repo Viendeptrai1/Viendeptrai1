@@ -1,6 +1,6 @@
 # Vien Phan
 
-Hello sir, Im Kotori and I love math
+Hello sir, have a good day !
 
 ### 📞 Contact:
 
